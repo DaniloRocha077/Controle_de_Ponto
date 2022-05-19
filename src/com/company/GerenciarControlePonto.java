@@ -5,9 +5,9 @@ import java.time.LocalDateTime;
 import java.util.Date;
 import java.lang.Thread;
 
-*/Danilo Rocha,
+/*Danilo Rocha,
 Carlos Roberto,
-Paulo Alencar/*
+Paulo Barchieri*/
 
 public class GerenciarControlePonto {
 
